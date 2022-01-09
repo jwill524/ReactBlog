@@ -19,7 +19,7 @@ export default function TopBar() {
             </div>
             <div className="topRight">
                 {/* <i className=" topImg fas fa-chess-king"></i>  */}
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gQPUaC9KJTGZwo38etjXc9ytsBi_cVdouw&usqp=CAU" alt="" className="topImg" />
+                <img src='/images/coder.jpg' alt="" className="topImg" />
                 <i className="topSearchIcon fas fa-search"></i>
             </div> 
         </div>
